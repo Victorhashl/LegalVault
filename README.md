@@ -8,7 +8,7 @@
 5. Run ```mvn package```
 6. Execute ```java -jar target\gs-maven-0.1.0.jar``` 
 
-## Constributions
+## Contributions
 1. Aditya Agrawal
 2. Arnav Gupta 
 3. Nishit Roshan 
